@@ -5,6 +5,8 @@ New subgroups are also listed; these can be hard to find because they're not in 
 
 Feel free to add to the list: clone, edit, then send a pull request.
 
+RTFM: http://hh.gd/etiquette
+
 main()
 ------
 Only post job/internship ads in HH Job Listings (http://hh.gd/jobs)
@@ -152,3 +154,7 @@ Moderation
 http://hh.gd/etiquette
 
 If you have a question or concern about a person or post in HH, please send a private message to the HH moderators: http://hh.gd/mods
+
+Coda
+----
+Here’s to the hackers. The tinkerers. The makers. The ones who create things quickly. While some may see them as sleep-deprived loons, we see dedication. Because the students who are crazy enough to think they can make something awesome in just 36 hours, are the ones who do.
