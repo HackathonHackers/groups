@@ -9,9 +9,9 @@ RTFM: http://hh.gd/etiquette
 
 main()
 ------
-Only post job/internship ads in HH Job Listings (http://hh.gd/jobs)
+Only post job/internship ads in **HH Job Listings** (http://hh.gd/jobs)
 
-Giveaways should be posted in HH Free Stuff (http://hh.gd/freestuff).
+Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Blog Posts**: http://hh.gd/blogposts
 
