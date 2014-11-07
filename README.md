@@ -1,5 +1,5 @@
-hhgroups
-========
+Hackathon Hackers: all the subgroups
+====================================
 
 Just wanted to feature subgroups with < 100 members, these can be hard to find because they're not in the sidebar. If any of these interest you please join, once they reach 100 members they can be official subgroups.
 
