@@ -7,13 +7,13 @@ Feel free to add to the list: clone, edit, then send a pull request.
 
 Language Specific:
 -------------------
-HH λ: https://www.facebook.com/groups/hhlambda/
-
-HH JavaScript: https://www.facebook.com/groups/719335188115212/
+HH λ: (functional programming) https://www.facebook.com/groups/hhlambda/
 
 HH Lisp: https://www.facebook.com/groups/760851353987620/
 
-HH Gophers: https://www.facebook.com/groups/hhgophers/
+HH: Logic programming: https://www.facebook.com/groups/hhlogic/
+
+HH JavaScript: https://www.facebook.com/groups/719335188115212/
 
 HH PHP: https://www.facebook.com/groups/389297074552662/
 
@@ -21,11 +21,11 @@ HH: C: https://www.facebook.com/groups/hhcprog/
 
 HH: Perl: https://www.facebook.com/groups/hhperl/
 
+HH Gophers: https://www.facebook.com/groups/hhgophers/
+
 HH: Matlab/GNU Octave: https://www.facebook.com/groups/hhmatlab/
 
 HH: R: https://www.facebook.com/groups/hhrprog/
-
-HH: Logic programming: https://www.facebook.com/groups/hhlogic/
 
 Code Related:
 -------------
