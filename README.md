@@ -35,7 +35,7 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Hardware**: http://hh.gd/hardware
 
-**HH Housingy: http://hh.gd/housing
+**HH Housing**: http://hh.gd/housing
 
 **HH Interview Prep**: http://hh.gd/interviewprep
 
@@ -60,7 +60,7 @@ Regional
 **HH California**: http://hh.gd/cali
 
 **HH European Union**: http://hh.gd/europe
-*
+
 **HH Midwest**: http://hh.gd/midwest
 
 **HH Seattle**: http://hh.gd/seattle
