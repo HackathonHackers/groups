@@ -7,61 +7,61 @@ Feel free to add to the list: clone, edit, then send a pull request.
 
 main()
 ------
-Only post job/internship ads in HH Job Listings (hh.gd/jobs)
+Only post job/internship ads in HH Job Listings (http://hh.gd/jobs)
 
-Giveaways should be posted in HH Free Stuff (hh.gd/freestuff).
+Giveaways should be posted in HH Free Stuff (http://hh.gd/freestuff).
 
-HH Blog Posts: hh.gd/blogposts
+HH Blog Posts: http://hh.gd/blogposts
 
-HH Book Club: hh.gd/bookclub
+HH Book Club: http://hh.gd/bookclub
 
-HH Code Reviews: hh.gd/codereview
+HH Code Reviews: http://hh.gd/codereview
 
-HH Coding: hh.gd/coding
+HH Coding: http://hh.gd/coding
 
-HH Connect: hh.gd/connect
+HH Connect: http://hh.gd/connect
 
-HH Constructive Debates: hh.gd/debate
+HH Constructive Debates: http://hh.gd/debate
 
-HH Data Hackers: hh.gd/data
+HH Data Hackers: http://hh.gd/data
 
-HH Design: hh.gd/design
+HH Design: http://hh.gd/design
 
-HH Freelance: hh.gd/freelance
+HH Freelance: http://hh.gd/freelance
 
-HH Free Stuff: hh.gd/freestuff
+HH Free Stuff: http://hh.gd/freestuff
 
-HH Hardware: hh.gd/hardware
+HH Hardware: http://hh.gd/hardware
 
-HH Housing: hh.gd/housing
+HH Housing: http://hh.gd/housing
 
-HH Interview Prep: hh.gd/interviewprep
+HH Interview Prep: http://hh.gd/interviewprep
 
-HH Meta: hh.gd/meta
+HH Meta: http://hh.gd/meta
 
-HH Product Launch: hh.gd/launch
+HH Product Launch: http://hh.gd/launch
 
-HH Skillshare: hh.gd/skillshare
+HH Skillshare: http://hh.gd/skillshare
 
-HH Share Your Projects: hh.gd/shareyourproject
+HH Share Your Projects: http://hh.gd/shareyourproject
 
-HH Throw a Hackathon: hh.gd/throwahack
+HH Throw a Hackathon: http://hh.gd/throwahack
 
-HH Virtual Reality: hh.gd/vr
+HH Virtual Reality: http://hh.gd/vr
 
-HH Websites & Resumes: hh.gd/resumes
+HH Websites & Resumes: http://hh.gd/resumes
 
-HH What Are You Working On?: hh.gd/waywo
+HH What Are You Working On?: http://hh.gd/waywo
 
 Regional
 --------
-HH California: hh.gd/cali
+HH California: http://hh.gd/cali
 
-HH European Union: hh.gd/europe
+HH European Union: http://hh.gd/europe
 
-HH Midwest: hh.gd/midwest
+HH Midwest: http://hh.gd/midwest
 
-HH Seattle: hh.gd/seattle
+HH Seattle: http://hh.gd/seattle
 
 Language Specific
 -------------------
@@ -79,9 +79,9 @@ HH: C: https://www.facebook.com/groups/hhcprog/
 
 HH: Perl: https://www.facebook.com/groups/hhperl/
 
-HH Python: hh.gd/python
+HH Python: http://hh.gd/python
 
-HH Ruby: hh.gd/ruby
+HH Ruby: http://hh.gd/ruby
 
 HH Gophers: https://www.facebook.com/groups/hhgophers/
 
@@ -115,13 +115,13 @@ HH Stocks: https://www.facebook.com/groups/1571495513082515/
 
 Joke/Parody
 ------------
-HH Circletwerk: hh.gd/circle
+HH Circletwerk: http://hh.gd/circle
 
-HH Snackathon Snackers: hh.gd/snackers
+HH Snackathon Snackers: http://hh.gd/snackers
 
-HH Stackathon Stackers: hh.gd/stackers
+HH Stackathon Stackers: http://hh.gd/stackers
 
-HH Hacker Problems: http://hh.gd/problems
+HH Hacker Problems: http://http://hh.gd/problems
 
 HH Jokes: https://www.facebook.com/groups/hhjokes/
 
@@ -137,18 +137,18 @@ Real Singles of HHCT: https://www.facebook.com/groups/realsingleshhct/
 
 Related
 -------
-High School Hackers: hh.gd/highschool
+High School Hackers: http://hh.gd/highschool
 
-HS Offers: hh.gd/hsoffers
+HS Offers: http://hh.gd/hsoffers
 
-Ladies Storm Hackathons: hh.gd/ladies
+Ladies Storm Hackathons: http://hh.gd/ladies
 
-Latino Hackers: hh.gd/latino
+Latino Hackers: http://hh.gd/latino
 
-Upcoming Hackathons: hh.gd/events
+Upcoming Hackathons: http://hh.gd/events
 
 Moderation
 ----------
-hh.gd/etiquette
+http://hh.gd/etiquette
 
-If you have a question or concern about a person or post in HH, please send a private message to the HH moderators: hh.gd/mods
+If you have a question or concern about a person or post in HH, please send a private message to the HH moderators: http://hh.gd/mods
