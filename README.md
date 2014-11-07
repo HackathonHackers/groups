@@ -1,8 +1,10 @@
 Hackathon Hackers: all the subgroups
 ====================================
 
-New subgroups are also listed; these can be hard to find because they're not in the sidebar. If any of these interest you please join, once they reach 100 members they can be official subgroups (listed in **bold**).
+New subgroups are also listed; these can be hard to find because they're not in the sidebar. If any of these interest you please join, once they reach 100 members they can be official subgroups.
 
+Official subgroups are listed in **bold**
+ 
 Feel free to add to the list: clone, edit, then send a pull request.
 
 RTFM: http://hh.gd/etiquette
