@@ -114,9 +114,9 @@ HH Vim: https://www.facebook.com/groups/hhvim/
 
 HH Networking: https://www.facebook.com/groups/hhnetworking/
 
-HH: Semantic Web https://www.facebook.com/groups/hhsemantic/
+HH Semantic Web https://www.facebook.com/groups/hhsemantic/
 
-HH: InfoSec: https://www.facebook.com/groups/773334272725281/
+HH InfoSec: https://www.facebook.com/groups/773334272725281/
 
 Misc
 -----
@@ -129,6 +129,10 @@ HH Futurism: https://www.facebook.com/groups/568175936642925/
 HH Stocks: https://www.facebook.com/groups/1571495513082515/
 
 HH Couch Surfing: https://www.facebook.com/groups/726089960809105/
+
+HH Hacking Hackathons: https://www.facebook.com/groups/857498367601915/
+
+HH Find Teammates: https://www.facebook.com/groups/454867721317036/
 
 Joke/Parody
 ------------
@@ -148,7 +152,7 @@ HH Bæsed Andy: https://www.facebook.com/groups/346246492209784/
 
 Wankathon Wankers: https://www.facebook.com/groups/WankWank/
 
-WW: What Are You Wanking On?: https://www.facebook.com/groups/wwwaywo/
+WW What Are You Wanking On?: https://www.facebook.com/groups/wwwaywo/
 
 Real Singles of HHCT: https://www.facebook.com/groups/realsingleshhct/
 
