@@ -15,6 +15,8 @@ Only post job/internship ads in **HH Job Listings** (http://hh.gd/jobs)
 
 Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
+**HH Welcome**: https://www.facebook.com/groups/hhwelcome/
+
 **HH Blog Posts**: http://hh.gd/blogposts
 
 **HH Book Club**: http://hh.gd/bookclub
@@ -73,13 +75,13 @@ HH λ: (functional programming) https://www.facebook.com/groups/hhlambda/
 
 HH Lisp: https://www.facebook.com/groups/760851353987620/
 
-HH: Logic programming: https://www.facebook.com/groups/hhlogic/
+HH Logic programming: https://www.facebook.com/groups/hhlogic/
 
 HH JavaScript: https://www.facebook.com/groups/719335188115212/
 
 HH PHP: https://www.facebook.com/groups/389297074552662/
 
-HH: C: https://www.facebook.com/groups/hhcprog/
+HH C: https://www.facebook.com/groups/hhcprog/
 
 HH Perl: https://www.facebook.com/groups/hhperl/
 
@@ -87,11 +89,20 @@ HH Perl: https://www.facebook.com/groups/hhperl/
 
 **HH Ruby**: http://hh.gd/ruby
 
+HH Rust: https://www.facebook.com/groups/hhrust/
+
 HH Gophers: https://www.facebook.com/groups/hhgophers/
 
-HH: Matlab/GNU Octave: https://www.facebook.com/groups/hhmatlab/
+HH Matlab/GNU Octave: https://www.facebook.com/groups/hhmatlab/
 
-HH: R: https://www.facebook.com/groups/hhrprog/
+HH R: https://www.facebook.com/groups/hhrprog/
+
+Platform Specific
+-----------------
+
+HH Webdev: https://www.facebook.com/groups/301683010031376/
+
+HH Linux Users: https://www.facebook.com/groups/582691025194939/
 
 Code and Hacker culture
 -----------------------
@@ -116,6 +127,8 @@ HH Hack Sleep: https://www.facebook.com/groups/283617808512688/
 HH Futurism: https://www.facebook.com/groups/568175936642925/
 
 HH Stocks: https://www.facebook.com/groups/1571495513082515/
+
+HH Couch Surfing: https://www.facebook.com/groups/726089960809105/
 
 Joke/Parody
 ------------
