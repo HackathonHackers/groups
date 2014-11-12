@@ -61,6 +61,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 Regional
 --------
+**HH Canada Eh?**: http://hh.gd/canada
+
 **HH California**: http://hh.gd/cali
 
 **HH European Union**: http://hh.gd/europe
@@ -100,7 +102,7 @@ HH R: https://www.facebook.com/groups/hhrprog/
 Platform Specific
 -----------------
 
-HH Webdev: https://www.facebook.com/groups/301683010031376/
+**HH Webdev**: http://hh.gd/webdev
 
 HH Linux Users: https://www.facebook.com/groups/582691025194939/
 
@@ -155,8 +157,6 @@ HH Bæsed Andy: https://www.facebook.com/groups/346246492209784/
 Wankathon Wankers: https://www.facebook.com/groups/WankWank/
 
 WW What Are You Wanking On?: https://www.facebook.com/groups/wwwaywo/
-
-Real Singles of HHCT: https://www.facebook.com/groups/realsingleshhct/
 
 Related
 -------
