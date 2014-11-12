@@ -144,7 +144,7 @@ Joke/Parody
 
 **HH Hacker Problems**: http://http://hh.gd/problems
 
-**Real Singles of HHCT**: https://www.facebook.com/groups/realsingleshhct/
+**Real Singles of HHCT**: http://hh.gd/singles
 
 HH Jokes: https://www.facebook.com/groups/hhjokes/
 
