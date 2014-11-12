@@ -99,6 +99,8 @@ HH Matlab/GNU Octave: https://www.facebook.com/groups/hhmatlab/
 
 HH R: https://www.facebook.com/groups/hhrprog/
 
+HH Tcl: https://www.facebook.com/groups/hhtcl/
+
 Platform Specific
 -----------------
 
