@@ -144,6 +144,8 @@ Joke/Parody
 
 **HH Hacker Problems**: http://http://hh.gd/problems
 
+**Real Singles of HHCT**: https://www.facebook.com/groups/realsingleshhct/
+
 HH Jokes: https://www.facebook.com/groups/hhjokes/
 
 HH: What Are You Twerking On?: https://www.facebook.com/groups/hhtwerk/
