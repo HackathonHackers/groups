@@ -73,7 +73,7 @@ Regional
 
 Language Specific
 -------------------
-HH λ: (functional programming) https://www.facebook.com/groups/hhlambda/
+**HH λ**: (functional programming) https://www.facebook.com/groups/hhlambda/
 
 HH Lisp: https://www.facebook.com/groups/760851353987620/
 
