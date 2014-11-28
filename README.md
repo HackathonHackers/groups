@@ -41,6 +41,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Housing**: http://hh.gd/housing
 
+**HH Information Security**: http://hh.gd/infosec
+
 **HH Interview Prep**: http://hh.gd/interviewprep
 
 **HH Meta**: http://hh.gd/meta
