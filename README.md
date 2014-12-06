@@ -71,6 +71,8 @@ Regional
 
 **HH Midwest**: http://hh.gd/midwest
 
+HH NYC: https://www.facebook.com/groups/392783994231221/
+
 **HH Seattle**: http://hh.gd/seattle
 
 Language Specific
