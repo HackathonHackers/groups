@@ -140,6 +140,8 @@ HH Hacking Hackathons: https://www.facebook.com/groups/857498367601915/
 
 HH Find Teammates: https://www.facebook.com/groups/454867721317036/
 
+HH Science: https://www.facebook.com/groups/1567158356834541/
+
 Joke/Parody
 ------------
 **HH Circletwerk**: http://hh.gd/circle
