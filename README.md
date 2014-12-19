@@ -75,6 +75,8 @@ HH NYC: https://www.facebook.com/groups/392783994231221/
 
 **HH Seattle**: http://hh.gd/seattle
 
+HH South: https://www.facebook.com/groups/960760090617712/
+
 Language Specific
 -------------------
 **HH λ**: (functional programming) http://hh.gd/lambda
@@ -140,7 +142,9 @@ HH Hacking Hackathons: https://www.facebook.com/groups/857498367601915/
 
 HH Find Teammates: https://www.facebook.com/groups/454867721317036/
 
-HH Science: https://www.facebook.com/groups/1567158356834541/
+HH Science: https://www.facebook.com/groups/hhscience/
+
+HH Wordplay: https://www.facebook.com/groups/hhwordplay/
 
 Joke/Parody
 ------------
