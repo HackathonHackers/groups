@@ -29,6 +29,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Constructive Debates**: http://hh.gd/debate
 
+**HH CTF**: http://hh.gd/ctf
+
 **HH Data Hackers**: http://hh.gd/data
 
 **HH Design**: http://hh.gd/design
