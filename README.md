@@ -112,6 +112,10 @@ Platform Specific
 
 **HH Webdev**: http://hh.gd/webdev
 
+HH iOS: https://www.facebook.com/groups/hhios/
+
+HH Android: https://www.facebook.com/groups/HHAndroid/
+
 HH Linux Users: https://www.facebook.com/groups/582691025194939/
 
 Code and Hacker culture
