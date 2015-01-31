@@ -33,6 +33,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Design**: http://hh.gd/design
 
+**HH Education**: http://hh.gd/edu
+
 **HH Freelance**: http://hh.gd/freelance
 
 **HH Free Stuff**: http://hh.gd/freestuff
