@@ -51,6 +51,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Meta**: http://hh.gd/meta
 
+**HH Node.js is the only real dev language**: [http://hh.gd/iwishthiswasareallink](https://www.facebook.com/groups/hhnodejsistheonlyrealdevlanguage/)
+
 **HH Product Launch**: http://hh.gd/launch
 
 **HH Skillshare**: http://hh.gd/skillshare
