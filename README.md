@@ -89,7 +89,7 @@ HH Lisp: https://www.facebook.com/groups/760851353987620/
 
 HH Logic programming: https://www.facebook.com/groups/hhlogic/
 
-HH JavaScript: https://www.facebook.com/groups/719335188115212/
+**HH JavaScript**: https://www.facebook.com/groups/719335188115212/
 
 HH PHP: https://www.facebook.com/groups/389297074552662/
 
@@ -132,7 +132,9 @@ HH Vim: https://www.facebook.com/groups/hhvim/
 
 HH Networking: https://www.facebook.com/groups/hhnetworking/
 
-HH Semantic Web https://www.facebook.com/groups/hhsemantic/
+HH Semantic Web: https://www.facebook.com/groups/hhsemantic/
+
+HH Scientific Computing: https://www.facebook.com/groups/hhscientificcomputing/
 
 Misc
 -----
