@@ -116,7 +116,7 @@ Platform Specific
 
 * **HH Webdev**: http://hh.gd/webdev
 
-* HH iOS: https://www.facebook.com/groups/hhios/
+* **HH iOS**: https://www.facebook.com/groups/hhios/
 
 * HH Android: https://www.facebook.com/groups/HHAndroid/
 
