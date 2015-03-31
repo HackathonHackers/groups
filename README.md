@@ -67,6 +67,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 Regional
 --------
+* HH Asia: https://www.facebook.com/groups/hackathonhackersasia/
+
 * **HH Canada Eh?**: http://hh.gd/canada
 
 * **HH California**: http://hh.gd/cali
