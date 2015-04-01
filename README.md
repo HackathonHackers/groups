@@ -103,7 +103,7 @@ Language Specific
 
 * **HH Ruby**: http://hh.gd/ruby
 
-* HH Rust: https://www.facebook.com/groups/hhrust/
+* **HH Rust**: https://www.facebook.com/groups/hhrust/
 
 * HH Gophers: https://www.facebook.com/groups/hhgophers/
 
