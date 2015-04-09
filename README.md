@@ -17,6 +17,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 * **HH Welcome**: https://www.facebook.com/groups/hhwelcome/
 
+* **HH 3D Printing**: https://www.facebook.com/groups/1406844469612016/
+
 * **HH Blog Posts**: http://hh.gd/blogposts
 
 * **HH Book Club**: http://hh.gd/bookclub
