@@ -160,7 +160,7 @@ Misc
 
 * HH Startups: https://www.facebook.com/groups/1557032894516446/
 
-* HH 3D Printing: https://www.facebook.com/groups/1406844469612016/
+* HH 3D: https://www.facebook.com/groups/1406844469612016/
 
 Joke/Parody
 ------------
