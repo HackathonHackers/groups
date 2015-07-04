@@ -37,6 +37,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 * **HH Education**: http://hh.gd/edu
 
+* **HH ELI5**: http://https://www.facebook.com/groups/1616876328586673/
+
 * **HH Freelance**: http://hh.gd/freelance
 
 * **HH Free Stuff**: http://hh.gd/freestuff
