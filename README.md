@@ -138,6 +138,8 @@ Code and Hacker culture
 
 * HH Scientific Computing: https://www.facebook.com/groups/hhscientificcomputing/
 
+* HH Tech Holy Wars: https://www.facebook.com/groups/TechHolyWars/
+
 Misc
 -----
 * HH Seeking Collaborators: https://www.facebook.com/groups/517926818351073/
