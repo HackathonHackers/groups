@@ -95,7 +95,7 @@ Language Specific
 
 * HH PHP: https://www.facebook.com/groups/389297074552662/
 
-* HH C: https://www.facebook.com/groups/hhcprog/
+* **HH C**: http://hh.gd/c
 
 * HH Perl: https://www.facebook.com/groups/hhperl/
 
