@@ -49,6 +49,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 * **HH Interview Prep**: http://hh.gd/interviewprep
 
+* **HH Interview Experiences**: http://hh.gd/intexp
+
 * **HH Meta**: http://hh.gd/meta
 
 * **HH Product Launch**: http://hh.gd/launch
