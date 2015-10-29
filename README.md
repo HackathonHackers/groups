@@ -15,8 +15,6 @@ Only post job/internship ads in **HH Job Listings** (http://hh.gd/jobs)
 
 Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
-* **HH Welcome**: https://www.facebook.com/groups/hhwelcome/
-
 * **HH Blog Posts**: http://hh.gd/blogposts
 
 * **HH Book Club**: http://hh.gd/bookclub
