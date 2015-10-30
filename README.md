@@ -164,6 +164,8 @@ Misc
 
 * HH 3D: https://www.facebook.com/groups/1406844469612016/
 
+* Hedgehog Hackers: https://www.facebook.com/groups/hedgehoghackers/
+
 Joke/Parody
 ------------
 * **HH Circletwerk**: http://hh.gd/circle
