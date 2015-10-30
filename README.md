@@ -168,7 +168,6 @@ Misc
 
 Joke/Parody
 ------------
-* **HH Circletwerk**: http://hh.gd/circle
 
 * **HH Snackathon Snackers**: http://hh.gd/snackers
 
