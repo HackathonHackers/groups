@@ -3,8 +3,6 @@ Hackathon Hackers: all the subgroups
 
 Feel free to add to the list: clone, edit, then send a pull request.
 
-main()
-------
 - [README](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y)
 - [Job & Internships](https://www.facebook.com/groups/254805221385780/)
 - [Free & For Sale](https://www.facebook.com/groups/hhfreestuff/)
@@ -12,7 +10,17 @@ main()
 Join us on [Slack](http://hackathons.com/)
 Follow us on [Medium](https://medium.com/hackathon-hackers)
 
-/** SUBGROUPS **/
+##Table of Contents
+- [Subgroups](https://github.com/HackathonHackers/groups#subgroups)
+- [Languages and Platforms](https://github.com/HackathonHackers/groups#languages-and-platforms)
+- [Events and Regions](https://github.com/HackathonHackers/groups#events-and-regions)
+- [Humor](https://github.com/HackathonHackers/groups#humor)
+- [Related](https://github.com/HackathonHackers/groups#related)
+- [Moderation](https://github.com/HackathonHackers/groups#moderation)
+- [Coda](https://github.com/HackathonHackers/groups#coda)
+
+Subgroups
+----
 Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3GTMWY3musJQounsQ956Ex09G95SIFaY6XM/viewform)
 
 - [HH Blog Posts](https://www.facebook.com/groups/685608641508735/)
@@ -64,7 +72,8 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Websites & Resumes](https://www.facebook.com/groups/1487708811477672/)
 - [HH What Are You Working On?](https://www.facebook.com/groups/waywo/)
 
-# LANGUAGES and PLATFORMS
+Languages and Platforms
+----
 - [HH Android](https://www.facebook.com/groups/HHAndroid/)
 - [HH C](https://www.facebook.com/groups/hhcprog/)
 - [HH iOS](https://www.facebook.com/groups/hhios/)
@@ -77,7 +86,8 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Vim](https://www.facebook.com/groups/hhvim/)
 - [HH λ](https://www.facebook.com/groups/hhlambda/)
 
-# EVENTS and REGIONS
+Events and Regions
+----
 - [HH Africa](https://www.facebook.com/groups/HHAfrica/)
 - [HH Asia](https://www.facebook.com/groups/hackathonhackersasia/)
 - [HH Brasil](https://www.facebook.com/groups/hhbrasil/)
@@ -93,20 +103,23 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Southeast Asia](https://www.facebook.com/groups/1646272938926104/)
 - [HH Texas](https://www.facebook.com/groups/HHTexas/)
 
-# HUMOR
+Humor
+----
 - [HH Hacker Problems](https://www.facebook.com/groups/hhproblems/)
 - [HH Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
 - [HH Stackathon Stackers](https://www.facebook.com/groups/345926665565678/)
 - [Real Singles of HH](https://www.facebook.com/groups/realsingleshhct/)
 
-/** RELATED **/
+Related
+----
 - [High School Hackers](https://www.facebook.com/groups/PennAppsHS/)
 - [Ladies Storm Hackathons](https://www.facebook.com/groups/LadiesStormHackathons/)
 - [Latin@ Hackers](https://www.facebook.com/groups/LatinoHackers/)
 - [Upcoming Hackathons](https://github.com/japacible/Hackathon-Calendar)
 
-/** MODERATION **/
+Moderation
+----
 - [Code of Conduct](https://github.com/HackathonHackers/code-of-conduct)
 - [Anonymous Feedback Form](https://docs.google.com/forms/d/1ztHbYWpxlDAMGdlDlGcTEaPUfy09K3V8k81m18Red3M/viewform)
 
