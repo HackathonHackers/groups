@@ -28,7 +28,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Design](https://www.facebook.com/groups/designxtech/)
 - [HH Digital Art](https://www.facebook.com/groups/hhdigart/)
 - [HH Dropouts](https://www.facebook.com/groups/849773548419693/)
-- *HH Education
+- [HH Education](https://www.facebook.com/groups/1388719838088874/)
 - [HH FIRST & VEX](https://www.facebook.com/groups/hhfirstandvex/)
 - [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/)
 - [HH Freelance](https://www.facebook.com/groups/791749250889370/)
