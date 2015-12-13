@@ -56,6 +56,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Machine Learning](https://www.facebook.com/groups/hhmachinelearning/)
 - [HH Meta](https://www.facebook.com/groups/1443676762587979/)
 - [HH Music](https://www.facebook.com/groups/1562067487360179/)
+- [HH Networking](https://www.facebook.com/groups/hhnetworking/)
 - [HS Offers](https://www.facebook.com/groups/HSOffers/)
 - [HH Politics](https://www.facebook.com/groups/hhpolitics/)
 - [HH Product Launch](https://www.facebook.com/groups/1471021183187527/)
@@ -71,6 +72,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Web Dev](https://www.facebook.com/groups/hhweb/)
 - [HH Websites & Resumes](https://www.facebook.com/groups/1487708811477672/)
 - [HH What Are You Working On?](https://www.facebook.com/groups/waywo/)
+- [HH WiFi](https://www.facebook.com/groups/hhwifi/)
 
 Languages and Platforms
 ----
