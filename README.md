@@ -25,7 +25,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 
 - [HH Artificial Intelligence](https://www.facebook.com/groups/778645865540833/)
 - [HH Blog Posts](https://www.facebook.com/groups/685608641508735/)
-- [HH Book Club](https://www.facebook.com/groups/1283193408435026/)
 - [HH Code Reviews](https://www.facebook.com/groups/hh.code.reviews/)
 - [HH Coding](https://www.facebook.com/groups/367114203440272/)
 - [HH College Apps](https://www.facebook.com/groups/hhcollegeapps/)
@@ -33,7 +32,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Computer Vision](https://www.facebook.com/groups/470496493110320/)
 - [HH Constructive Debates](https://www.facebook.com/groups/hhconstructivedebates/)
 - [HH CTF](https://www.facebook.com/groups/hhctf/)
-- [HH Data Hackers](https://www.facebook.com/groups/datahackers/)
 - [HH Design](https://www.facebook.com/groups/designxtech/)
 - [HH Digital Art](https://www.facebook.com/groups/hhdigart/)
 - [HH Dropouts](https://www.facebook.com/groups/849773548419693/)
@@ -41,14 +39,11 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH ELI5](http://https://www.facebook.com/groups/1616876328586673/)
 - [HH FIRST & VEX](https://www.facebook.com/groups/hhfirstandvex/)
 - [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/)
-- [HH Freelance](https://www.facebook.com/groups/791749250889370/)
 - [HH Futurism](https://www.facebook.com/groups/568175936642925/)
 - [HH Growth Hacking](https://www.facebook.com/groups/hackapreneur/)
 - [HH Hardware](https://www.facebook.com/groups/574938035951867/)
 - [HH Health Tech](https://www.facebook.com/groups/372010919635390/)
-- [HH Homework](https://www.facebook.com/groups/HHhomework/)
 - [HH Housing](https://www.facebook.com/groups/HHHousing/)
-- [HH Information Security](https://www.facebook.com/groups/773334272725281/)
 - [HH Internet of Things](https://www.facebook.com/groups/358438357699910/)
 - [HH Internships](https://www.facebook.com/groups/HHinternships/)
 - [HH Interview Prep](https://www.facebook.com/groups/722062947858000/)
@@ -57,7 +52,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH LGBT+](https://www.facebook.com/groups/hhlgbt/)
 - [HH Machine Learning](https://www.facebook.com/groups/hhmachinelearning/)
 - [HH Meta](https://www.facebook.com/groups/1443676762587979/)
-- [HH Music](https://www.facebook.com/groups/1562067487360179/)
 - [HH Networking](https://www.facebook.com/groups/hhnetworking/)
 - [HS Offers](https://www.facebook.com/groups/HSOffers/)
 - [HH Politics](https://www.facebook.com/groups/hhpolitics/)
@@ -85,7 +79,6 @@ Languages and Platforms
 - [HH Linux](https://www.facebook.com/groups/582691025194939/)
 - [HH PHP](https://www.facebook.com/groups/DollaBillz/)
 - [HH Python](https://www.facebook.com/groups/721736427908410/)
-- [HH Ruby](https://www.facebook.com/groups/HHRuby/)
 - [HH Rust](https://www.facebook.com/groups/hhrust/)
 - [HH Vim](https://www.facebook.com/groups/hhvim/)
 - [HH λ](https://www.facebook.com/groups/hhlambda/)
@@ -95,12 +88,9 @@ Events and Regions
 - [HH Africa](https://www.facebook.com/groups/HHAfrica/)
 - [HH Asia](https://www.facebook.com/groups/hackathonhackersasia/)
 - [HH Brasil](https://www.facebook.com/groups/hhbrasil/)
-- [HH Canada](https://www.facebook.com/groups/hhcanada/)
-- [HH California](https://www.facebook.com/groups/274867312718471/)
 - [HH Cal Hacks](https://www.facebook.com/groups/calhacks2/)
 - [HH European Union](https://www.facebook.com/groups/hackathonhackersuk/)
 - [HH MHacks](https://www.facebook.com/groups/1506039289667163/)
-- [HH Midwest](https://www.facebook.com/groups/midwesthackers/)
 - [HH NYC](https://www.facebook.com/groups/392783994231221/)
 - [HH Seattle](https://www.facebook.com/groups/853132118041731/)
 - [HH South](https://www.facebook.com/groups/960760090617712/)
@@ -109,11 +99,9 @@ Events and Regions
 
 Humor
 ----
-- [HH Hacker Problems](https://www.facebook.com/groups/hhproblems/)
 - [HH Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
 - [HH Stackathon Stackers](https://www.facebook.com/groups/345926665565678/)
-- [Real Singles of HH](https://www.facebook.com/groups/realsingleshhct/)
 
 Related
 ----
