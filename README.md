@@ -45,6 +45,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Futurism](https://www.facebook.com/groups/568175936642925/)
 - [HH Growth Hacking](https://www.facebook.com/groups/hackapreneur/)
 - [HH Hardware](https://www.facebook.com/groups/574938035951867/)
+- [HH Hebrews](https://www.facebook.com/groups/hhhebrews/)
 - [HH Health Tech](https://www.facebook.com/groups/372010919635390/)
 - [HH Homework](https://www.facebook.com/groups/HHhomework/)
 - [HH Housing](https://www.facebook.com/groups/HHHousing/)
