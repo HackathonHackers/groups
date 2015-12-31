@@ -98,7 +98,7 @@ Events and Regions
 
 Humor
 ----
-- [HH Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
+- [Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
 - [HH Stackathon Stackers](https://www.facebook.com/groups/345926665565678/)
 
