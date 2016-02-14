@@ -24,6 +24,7 @@ Subgroups
 Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3GTMWY3musJQounsQ956Ex09G95SIFaY6XM/viewform)
 
 - [HH Artificial Intelligence](https://www.facebook.com/groups/778645865540833/)
+- [HH Battlestations & Gear](https://www.facebook.com/groups/hhbattlestations/)
 - [HH Blog Posts](https://www.facebook.com/groups/685608641508735/)
 - [HH Code Reviews](https://www.facebook.com/groups/hh.code.reviews/)
 - [HH Coding](https://www.facebook.com/groups/367114203440272/)
@@ -57,6 +58,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HS Offers](https://www.facebook.com/groups/HSOffers/)
 - [HH Politics](https://www.facebook.com/groups/hhpolitics/)
 - [HH Product Launch](https://www.facebook.com/groups/1471021183187527/)
+- [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/)
 - [HH Share Your Projects](https://www.facebook.com/groups/778907548826382/)
 - [HH Skillshare](https://www.facebook.com/groups/1448520968748669/)
 - [HH Social Good](https://www.facebook.com/groups/621836654610420/)
