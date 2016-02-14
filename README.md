@@ -36,7 +36,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Digital Art](https://www.facebook.com/groups/hhdigart/)
 - [HH Dropouts](https://www.facebook.com/groups/849773548419693/)
 - [HH Education](https://www.facebook.com/groups/1388719838088874/)
-- [HH ELI5](http://https://www.facebook.com/groups/1616876328586673/)
+- [HH ELI5](https://www.facebook.com/groups/1616876328586673/)
 - [HH FIRST & VEX](https://www.facebook.com/groups/hhfirstandvex/)
 - [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/)
 - [HH Futurism](https://www.facebook.com/groups/568175936642925/)
