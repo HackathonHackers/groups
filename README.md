@@ -101,6 +101,7 @@ Events and Regions
 Humor
 ----
 - [Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
+- [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
 - [HH Stackathon Stackers](https://www.facebook.com/groups/345926665565678/)
 
