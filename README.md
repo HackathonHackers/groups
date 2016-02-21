@@ -97,6 +97,7 @@ Events and Regions
 - [HH South](https://www.facebook.com/groups/960760090617712/)
 - [HH Southeast Asia](https://www.facebook.com/groups/1646272938926104/)
 - [HH Texas](https://www.facebook.com/groups/HHTexas/)
+- [HH India](https://www.facebook.com/groups/HackathonHackersIndia/)
 
 Humor
 ----
