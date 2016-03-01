@@ -41,7 +41,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH FIRST & VEX](https://www.facebook.com/groups/hhfirstandvex/)
 - [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/)
 - [HH Futurism](https://www.facebook.com/groups/568175936642925/)
-- [HH Growth Hacking](https://www.facebook.com/groups/hackapreneur/)
+- [HH Growth Hacking](https://www.facebook.com/groups/hhgrowthhacking/)
 - [HH Hardware](https://www.facebook.com/groups/574938035951867/)
 - [HH Hebrews](https://www.facebook.com/groups/hhhebrews/)
 - [HH Health Tech](https://www.facebook.com/groups/372010919635390/)
