@@ -25,6 +25,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 
 - [HH Artificial Intelligence](https://www.facebook.com/groups/778645865540833/)
 - [HH Battlestations & Gear](https://www.facebook.com/groups/hhbattlestations/)
+- [HH Bots] (https://www.facebook.com/groups/hhbots/) 
 - [HH Blog Posts](https://www.facebook.com/groups/685608641508735/)
 - [HH Code Reviews](https://www.facebook.com/groups/hh.code.reviews/)
 - [HH Coding](https://www.facebook.com/groups/367114203440272/)
