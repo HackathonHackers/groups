@@ -102,6 +102,7 @@ Events and Regions
 
 Humor
 ----
+- [BRRTathon BRRTers](https://www.facebook.com/groups/610457332435931/)
 - [Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
 - [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
