@@ -57,6 +57,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Meta](https://www.facebook.com/groups/1443676762587979/)
 - [HH Networking](https://www.facebook.com/groups/hhnetworking/)
 - [HS Offers](https://www.facebook.com/groups/HSOffers/)
+- [HH Pokemon Go](https://www.facebook.com/groups/hhpokemongo)
 - [HH Politics](https://www.facebook.com/groups/hhpolitics/)
 - [HH Product Launch](https://www.facebook.com/groups/1471021183187527/)
 - [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/)
