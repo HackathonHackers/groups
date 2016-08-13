@@ -31,6 +31,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Coding](https://www.facebook.com/groups/367114203440272/)
 - [HH College Apps](https://www.facebook.com/groups/hhcollegeapps/)
 - [HH Competitive Coding](https://www.facebook.com/groups/1638125653142215/)
+- [HH Competitive Programming](https://www.facebook.com/groups/HHCompetitiveProgramming//)
 - [HH Computer Science](https://www.facebook.com/groups/HHCSWeedKillers/)
 - [HH Computer Vision](https://www.facebook.com/groups/470496493110320/)
 - [HH Constructive Debates](https://www.facebook.com/groups/hhconstructivedebates/)
