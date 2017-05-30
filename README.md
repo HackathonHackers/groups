@@ -35,6 +35,7 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Computer Vision](https://www.facebook.com/groups/470496493110320/)
 - [HH Constructive Debates](https://www.facebook.com/groups/hhconstructivedebates/)
 - [HH CTF](https://www.facebook.com/groups/hhctf/)
+- [HH Cybersecurity](https://www.facebook.com/groups/hhcyber)
 - [HH Design](https://www.facebook.com/groups/designxtech/)
 - [HH Digital Art](https://www.facebook.com/groups/hhdigart/)
 - [HH Dropouts](https://www.facebook.com/groups/849773548419693/)
