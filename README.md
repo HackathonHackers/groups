@@ -92,7 +92,7 @@ Events and Regions
 - [HH Asia](https://www.facebook.com/groups/hackathonhackersasia/)
 - [HH Brasil](https://www.facebook.com/groups/hhbrasil/)
 - [HH Cal Hacks](https://www.facebook.com/groups/calhacks2/)
-- [HH European Union](https://www.facebook.com/groups/hackathonhackersuk/)
+- [HH European Union](https://www.facebook.com/groups/hackathonhackerseu/)
 - [HH India](https://www.facebook.com/groups/HackathonHackersIndia/)
 - [HH MHacks](https://www.facebook.com/groups/1506039289667163/)
 - [HH NYC](https://www.facebook.com/groups/392783994231221/)
@@ -108,6 +108,7 @@ Humor
 - [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
 - [HH Stackathon Stackers](https://www.facebook.com/groups/345926665565678/)
+- [HH Trees](https://www.facebook.com/groups/hhtrees/)
 
 Related
 ----
