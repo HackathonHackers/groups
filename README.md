@@ -69,7 +69,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Systems Programming](https://www.facebook.com/groups/HHSysProgramming/)
 - [HH Sweat Equity Jobs](https://www.facebook.com/groups/1549822701917283/)
 - [HH Throw a Hackathon](https://www.facebook.com/groups/259558310909836/)
-- [HH Vaporwave](https://www.facebook.com/groups/1561751697431737/)
 - [HH Virtual Reality](https://www.facebook.com/groups/virtualhackers/)
 - [HH Web Dev](https://www.facebook.com/groups/hhweb/)
 - [HH Websites & Resumes](https://www.facebook.com/groups/1487708811477672/)
