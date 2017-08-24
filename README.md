@@ -50,7 +50,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Housing](https://www.facebook.com/groups/HHHousing/)
 - [HH Illustrate](https://www.facebook.com/groups/238626356523662)
 - [HH Internet of Things](https://www.facebook.com/groups/358438357699910/)
-- [HH Internships](https://www.facebook.com/groups/HHinternships/)
 - [HH Interview Prep](https://www.facebook.com/groups/722062947858000/)
 - [HH Interview Experiences](https://www.facebook.com/groups/interviewexper/)
 - [HH Job Listings](https://www.facebook.com/groups/254805221385780/)
