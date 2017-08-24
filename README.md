@@ -97,6 +97,7 @@ Events and Regions
 - [HH India](https://www.facebook.com/groups/HackathonHackersIndia/)
 - [HH MHacks](https://www.facebook.com/groups/1506039289667163/)
 - [HH NYC](https://www.facebook.com/groups/392783994231221/)
+- [HH Portugal](https://www.facebook.com/groups/109988322894520/)
 - [HH Seattle](https://www.facebook.com/groups/853132118041731/)
 - [HH South](https://www.facebook.com/groups/960760090617712/)
 - [HH Southeast Asia](https://www.facebook.com/groups/1646272938926104/)
