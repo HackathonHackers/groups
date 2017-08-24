@@ -124,7 +124,7 @@ Related
 - [High School Hackers](https://www.facebook.com/groups/PennAppsHS/)
 - [Information Security](https://www.facebook.com/groups/773334272725281/)
 - [Ladies Storm Hackathons](https://www.facebook.com/groups/LadiesStormHackathons/)
-- [Latin@ Hackers](https://www.facebook.com/groups/LatinoHackers/)
+- [Latinx Hackers](https://www.facebook.com/groups/LatinxHackers/)
 - [Midwest Hackers](https://www.facebook.com/groups/midwesthackers/)
 - [Python Hackers](https://www.facebook.com/groups/721736427908410/)
 - [Ruby Hackers](https://www.facebook.com/groups/HHRuby/)
