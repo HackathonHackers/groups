@@ -10,7 +10,7 @@ Feel free to add to the list: clone, edit, then send a pull request.
 Join us on [Slack](http://hackathons.com/)
 Follow us on [Medium](https://medium.com/hackathon-hackers)
 
-##Table of Contents
+## Table of Contents
 - [Subgroups](https://github.com/HackathonHackers/groups#subgroups)
 - [Languages and Platforms](https://github.com/HackathonHackers/groups#languages-and-platforms)
 - [Events and Regions](https://github.com/HackathonHackers/groups#events-and-regions)
